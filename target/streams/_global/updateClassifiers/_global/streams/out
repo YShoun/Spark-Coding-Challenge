@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/Y.Shoun/Documents/Documents%20Administratifs/Interviews/Truata/coding_challenge/"), "coding_challenge")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/Y.Shoun/Documents/Documents%20Administratifs/Interviews/Truata/coding_challenge/"), "coding_challenge")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
