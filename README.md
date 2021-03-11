@@ -6,10 +6,10 @@
 *code files* <br/>
 /src/main/scala <br/><br/><br/>
 *PART1*<br/>
-/src/main/scala/SparkRDD.scala <br/><br/>
+/src/main/scala/Part1_SparkRDD <br/><br/>
 *PART2* <br/>
-/src/main/scala/SparkDataFrame.scala <br/>
+/src/main/scala/Part2_SparkDataFrame <br/>
 /src/main/task_2_5.py <br/><br/>
 *PART3* <br/>
-/src/main/scala/SparkAppliedML.scala <br/>
+/src/main/scala/Part3_SparkAppliedML <br/>
 
